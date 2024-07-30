@@ -1,0 +1,9 @@
+# Cache
+__pycache__/
+
+# Spyder project
+.spyproject
+
+# jupyter notebook temp
+.ipynb_checkpoints/
+
